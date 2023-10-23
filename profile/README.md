@@ -1,7 +1,7 @@
 # Coplore
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/coplore/coplore_image-storage/main/gif/coin.gif" />
+  <img src="https://raw.githubusercontent.com/coplore/coplore_storage/main/gif/coin.gif" />
 </p>
 
 > coplore public github repository.
