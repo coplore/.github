@@ -10,7 +10,7 @@
 
 ## 🔗 Link.
 
-- <a href="www.coplore.com/" target="_blank" rel="noreferrer">coplore app</a>
+- <a href="https://www.coplore.com/" target="_blank" rel="noreferrer">coplore app</a>
 
 <br />
 
